@@ -25,7 +25,7 @@ Professionally, my primary tools include Javascript (Vue.js, Node.js, Express.js
 
 - 📫 How to reach me **rastogiujj12@gmail.com**
 
-- ⚡ Fun fact **I am a fulltime freelancer and always looking for interesting projects.**
+- ⚡ Fun fact **I am a full-time freelancer and always looking for interesting projects.**
 
 - 👨‍💻 Hire me at [https://www.upwork.com/freelancers/~0110d47d03c544cd98](https://www.upwork.com/freelancers/~0110d47d03c544cd98)
 
