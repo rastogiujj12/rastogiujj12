@@ -21,7 +21,7 @@ Professionally, my primary tools include Javascript (Vue.js, Node.js, Express.js
 
 - 💬 Ask me about **Vue.js, Node.js, AWS, linux, games, and games on linux**
 
-- 🌱 I’m currently learning **Solidity and Haskell**
+- 🌱 I’m currently learning **Artificial intelligence**
 
 - 📫 How to reach me **rastogiujj12@gmail.com**
 
